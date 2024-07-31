@@ -27,5 +27,5 @@
 ---
 ### 💻 Operating Systems
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="Chrome" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows 11" height="48rem"/>&nbsp;
 </div>
