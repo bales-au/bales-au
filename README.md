@@ -60,8 +60,7 @@
 </div>
 
 ---
-<br/>
-<br/>
+
 ## Connect With Me
 
 ### ✉ Social Media
