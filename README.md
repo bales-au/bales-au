@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bailey Watts
-** 'IT Student'**
+##IT Student
 Welcome to my GitHub account! My name is Bailey and I'm an IT student at the Queensland University of Technology.
 
 
