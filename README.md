@@ -49,7 +49,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="48rem"/>&nbsp;
     <a href="https://unraid.net/" target="blank"><img src="https://dnld.lime-technology.com/connect/mark_gradient.png" alt="Unraid" height="48rem" /></a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="48rem"/>&nbsp;
+    <a href="https://ubuntu.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="48rem"/></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="48rem"/>&nbsp;
 </div>
 
