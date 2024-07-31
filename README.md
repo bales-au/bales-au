@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-   <img align="center" src="https://readme-typing-svg.demolab.com/?font=Aharoni.+Code&weight=600&size=35&duration=3800&pause=1000&center=true&color=90D74F&width=400&height=70&lines=+Welcome+to+my+GitHub+account!Hi+There!+👋+;" />
+   <img align="center" src="https://readme-typing-svg.demolab.com/?font=Aharoni.+Code&weight=600&size=35&duration=3800&pause=1000&center=true&color=90D74F&width=400&height=70&lines=Welcome+to+my+GitHub+account!Hi+There!+👋+;" />
    Welcome to my GitHub account!
 </h1>
 <br/>
