@@ -63,5 +63,5 @@
 
 ### 🧰 Social Media
 <div align="center">
-    <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin"/></a>
+    <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svgg" alt="Linkedin" height="48rem"/></a>
 </div>
