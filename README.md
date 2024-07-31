@@ -46,7 +46,7 @@
 </div>
 
 ---
-### 💻 Operating Systems and IoT
+### 💻 Operating Systems
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="48rem"/>&nbsp;
     <img src="https://dnld.lime-technology.com/connect/mark_gradient.png" alt="Unraid" height="48rem" />&nbsp;
