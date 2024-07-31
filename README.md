@@ -62,6 +62,6 @@
 ## Connect With Me
 
 ### ✉ Social Media
-<div align="center">
+<div>
     <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="48rem"/></a>
 </div>
