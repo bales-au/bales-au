@@ -42,7 +42,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" height="48rem"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
-    <img src="https://p7.hiclipart.com/preview/91/992/893/github-gitlab-computer-icons-source-code-github.jpg" alt="GitHub" height="48rem"/>&nbsp;
+    <img src="https://thumbnail.imgbin.com/6/8/7/imgbin-github-pages-logo-repository-fork-github-iJ1bVeFUpQGg1NTLwP73yx1Jw_t.jpg" alt="GitHub" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="48rem"/>&nbsp;
 </div>
 
