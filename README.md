@@ -35,9 +35,9 @@
 <div align="center">
     <a href="https://code.visualstudio.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="48rem"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" height="48rem"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/>&nbsp;
-    <img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/>&nbsp;
+    <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" height="48rem"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
+    <a href="https://github.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/>&nbsp;
 </div>
 
