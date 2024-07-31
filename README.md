@@ -13,9 +13,9 @@
 
 ### 🧰 Languages and Tools 
 <div align="center">
-    <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img src="https://devicon-website.vercel.app/api/c/original.svg" />
 </div>
 
 ---
