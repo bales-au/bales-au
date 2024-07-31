@@ -27,7 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" />&nbsp;
-
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" />&nbsp;
 </div>
 
@@ -55,7 +54,7 @@
 </div>
 
 ---
-### 🔌 IoT
+### 💡 Internet of Things
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" />&nbsp;
 </div>
