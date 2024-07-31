@@ -18,16 +18,16 @@
 ### 🧰 Languages and Tools 
 <div align="center">
     <a href="https://www.python.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem"/></a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" />&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" /></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" />&nbsp;
+    <a href="https://www.javascript.com/" target="blank>"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="48rem" /></a>
+    <a href="https://react.dev/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" /></a>
+    <a href="https://nodejs.org/en" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" /></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" />&nbsp;
+    <a href="https://www.java.com/en/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" /></a>
+    <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" /></a>
+    <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
 </div>
 
 ---
@@ -36,7 +36,7 @@
     <a href="https://code.visualstudio.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/></a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="48rem"/>&nbsp;
     <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" height="48rem"/></a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
+    <a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
     <a href="https://github.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/>&nbsp;
 </div>
