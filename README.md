@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" />&nbsp;
+
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" />&nbsp;
 </div>
 
@@ -49,7 +49,13 @@
 ---
 ### 💻 Operating Systems
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows 11" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="48rem"/>&nbsp;
+</div>
+
+---
+### 🔌 IoT
+<div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" />&nbsp;
 </div>
