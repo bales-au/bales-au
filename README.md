@@ -30,10 +30,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" />&nbsp;
 </div>
 
-<!--
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL2" height="48rem" />&nbsp;
--->
-
 ---
 ### 📄 Software and Services 
 <div align="center">
