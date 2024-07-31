@@ -11,6 +11,8 @@
 
 <br/>
 
+## Technical Skills
+
 ### 🧰 Languages and Tools 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem" />&nbsp;
