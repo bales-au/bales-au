@@ -5,7 +5,7 @@
 <h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 
 
-
+<br/>
 <div align="center">
    📚 Studying Information Technology, majoring in Computer Science and minoring in Network and Security
 
