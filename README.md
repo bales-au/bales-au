@@ -59,6 +59,8 @@
     <a href="https://www.raspberrypi.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" /></a>
 </div>
 
+
+<!--
 <br/>
 
 ## Connect With Me
@@ -67,3 +69,4 @@
 <div>
     <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="48rem"/></a>
 </div>
+-->
