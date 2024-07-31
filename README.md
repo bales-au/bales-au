@@ -1,4 +1,6 @@
-# Welcome to my GitHub account!
+
+
+<h1 align="center">Welcome to my GitHub account!</h1>
 
 <h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 
