@@ -13,7 +13,7 @@
 
 <br/>
 
-## Technical Skills
+## Technical Skills and Experience
 
 ### 🧰 Languages and Tools 
 <div align="center">
