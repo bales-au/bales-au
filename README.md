@@ -58,3 +58,10 @@
 <div align="center">
     <a href="https://www.raspberrypi.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" /></a>
 </div>
+
+## Connect With Me
+
+### 🧰 Social Media
+<div align="center">
+    <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin"/></a>
+</div>
