@@ -19,6 +19,12 @@
 
 <br/>
 ### 📄 Software and Services 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="Chrome" height="48rem"/>&nbsp;
+</div>
 
 <br/>
 ### 💻 Operating Systems
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="Chrome" height="48rem"/>&nbsp;
+</div>
