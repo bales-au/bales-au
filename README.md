@@ -34,18 +34,18 @@
 ### 📄 Software and Services 
 <div align="center">
     <a href="https://code.visualstudio.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/></a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="48rem"/>&nbsp;
+    <a href="https://visualstudio.microsoft.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="48rem"/></a>
     <a href="https://www.jetbrains.com/idea/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" height="48rem"/></a>
     <a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
     <a href="https://github.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/>&nbsp;
+    <a href="https://www.docker.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/></a>
 </div>
 
 ---
 ### 💻 Operating Systems
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="48rem"/>&nbsp;
-    <img src="https://dnld.lime-technology.com/connect/mark_gradient.png" alt="Unraid" height="48rem" />&nbsp;
+    <a href="https://unraid.net/" target="blank"><img src="https://dnld.lime-technology.com/connect/mark_gradient.png" alt="Unraid" height="48rem" /></a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="48rem"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="48rem"/>&nbsp;
 </div>
@@ -53,5 +53,5 @@
 ---
 ### 💡 Internet of Things
 <div align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" />&nbsp;
+    <a href="https://www.raspberrypi.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" /></a>
 </div>
