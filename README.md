@@ -13,9 +13,7 @@
 
 ### 🧰 Languages and Tools 
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img src="https://devicon-website.vercel.app/api/c/original.svg" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg" alt="Chrome" height="48rem"/>&nbsp;
 </div>
 
 ---
