@@ -59,7 +59,7 @@
     <a href="https://www.raspberrypi.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="48rem" /></a>
 </div>
 
----
+<br/>
 
 ## Connect With Me
 
