@@ -7,7 +7,7 @@
 
 
 <div align="center">
-   📚 Studying Information Technology, majoring in Computer Science and minoring Network and security
+   📚 Studying Information Technology, majoring in Computer Science and minoring in Network and Security
 
 </div>
 
