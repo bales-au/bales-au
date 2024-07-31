@@ -1,11 +1,8 @@
 
 
 <h1 align="center">Welcome to my GitHub account!</h1>
-
-<h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
-
-
 <br/>
+<h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 <div align="center">
    📚 Studying Information Technology, majoring in Computer Science and minoring in Network and Security
 
