@@ -1,7 +1,16 @@
-# Hi there 👋, I'm Bailey Watts
-#### IT Student
-Welcome to my GitHub account! My name is Bailey and I'm an IT student at the Queensland University of Technology.
+# Welcome to my GitHub account!
+
+<h3 align="center"> Undergrad at  Queensland University of Technology (QUT)</h3>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bales-au)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bailey-watts/)  
 
+<div align="center">
+   📚 Studying Information Technology, majoring in Computer Science and minoring Network and security
+
+</div>
+
+<br/>
+
+### 🧰 Languages and Tools 
+
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
