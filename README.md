@@ -60,7 +60,7 @@
 </div>
 
 
-<!--
+
 <br/>
 
 ## Connect With Me
@@ -68,5 +68,6 @@
 ### ✉ Social Media
 <div>
     <a href="https://www.linkedin.com/in/bailey-watts/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="48rem"/></a>
+    <a href="https://github.com/bales-au" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
 </div>
 -->
