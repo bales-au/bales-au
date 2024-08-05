@@ -30,6 +30,8 @@
     <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
     <a href="https://expressjs.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" height="48rem" /></a>
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" height="48rem" /></a>
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
 </div>
 
 ---
