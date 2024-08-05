@@ -32,7 +32,6 @@
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt=".NET" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
 </div>
 
 ---
@@ -44,6 +43,7 @@
     <a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
     <a href="https://github.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
     <a href="https://aws.amazon.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="48rem"/></a>
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
     <a href="https://www.docker.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/></a>
     <a href="https://insomnia.rest/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48rem"/></a>
     <a href="https://www.figma.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="48rem"/></a>
