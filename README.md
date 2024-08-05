@@ -28,7 +28,7 @@
     <a href="https://www.java.com/en/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" /></a>
     <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" /></a>
     <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
-    <a href="https://expressjs.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/expressjs.png" alt="Express" height="28rem" /></a>
+    <a href="https://expressjs.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" /></a>
 </div>
 
 ---
