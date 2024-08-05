@@ -18,9 +18,9 @@
 ### 🧰 Languages and Tools 
 <div align="center">
     <a href="https://www.python.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem"/></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" /></a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
     <a href="https://www.java.com/en/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="Java" height="48rem" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="48rem" />&nbsp;
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" /></a>
     <a href="https://dotnet.microsoft.com/en-us/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/dotnet-logo.png" alt=".NET" height="48rem" /></a>
     <a href="https://www.javascript.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="48rem" /></a>
     <a href="https://react.dev/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" /></a>
