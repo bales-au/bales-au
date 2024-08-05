@@ -32,6 +32,7 @@
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt=".NET" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
 </div>
 
 ---
@@ -49,7 +50,6 @@
     <a href="https://www.salesforce.com/au/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" height="48rem"/></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="PuTTY" height="48rem"/></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH" height="48rem"/></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
 </div>
 
 ---
