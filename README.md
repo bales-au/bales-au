@@ -16,6 +16,8 @@
 ## Technical Skills and Experience
 
 ### 🧰 Languages and Tools 
+
+#### For Web Development
 <div align="center">
     <a href="https://www.python.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" height="48rem" /></a>
