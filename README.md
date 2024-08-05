@@ -30,8 +30,8 @@
     <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
     <a href="https://expressjs.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="48rem" /></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" height="48rem" /></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt=".NET" height="48rem" /></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt=".NET" height="48rem" /></a>
+    <a href="https://www.json.org/json-en.html" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
 </div>
 
 ---
@@ -43,12 +43,12 @@
     <a href="https://git-scm.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" height="48rem"/></a>
     <a href="https://github.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/github.png" alt="GitHub" height="48rem"/></a>
     <a href="https://aws.amazon.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="48rem"/></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
+    <a href="https://www.npmjs.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="48rem"/></a>
     <a href="https://www.docker.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/></a>
     <a href="https://insomnia.rest/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48rem"/></a>
     <a href="https://www.figma.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="48rem"/></a>
     <a href="https://www.salesforce.com/au/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" height="48rem"/></a>
-    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="PuTTY" height="48rem"/></a>
+    <a href="https://www.putty.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="PuTTY" height="48rem"/></a>
     <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH" height="48rem"/></a>
 </div>
 
