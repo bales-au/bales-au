@@ -44,6 +44,7 @@
     <a href="https://insomnia.rest/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48rem"/></a>
     <a href="https://www.figma.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="48rem"/></a>
     <a href="https://www.salesforce.com/au/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" height="48rem"/></a>
+    <a href="" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" alt="PuTTY" height="48rem"/></a>
 </div>
 
 ---
