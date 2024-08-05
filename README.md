@@ -25,6 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
     <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" /></a>
 </div>
+
 #### For Web Development
 <div align="center">
     <a href="https://www.python.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" height="48rem"/></a>
