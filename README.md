@@ -24,8 +24,8 @@
     <a href="https://react.dev/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="48rem" /></a>
     <a href="https://nodejs.org/en" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="48rem" /></a>
     <a href="https://expressjs.com/" target="blank"><img src="https://github.com/bales-au/bales-au/blob/main/express.png" alt="Express" height="54rem" /></a>
-    <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" />&nbsp;
-    <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" />&nbsp;
+    <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" /></a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" /></a>
     <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" /></a>
     <a href="https://www.sqlite.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem" /></a>
     <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
