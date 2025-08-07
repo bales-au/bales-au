@@ -46,9 +46,9 @@
     <a href="https://www.npmjs.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="48rem"/></a>
     <a href="https://aws.amazon.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" height="48rem"/></a>
     <a href="https://www.docker.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" height="48rem"/></a>
-    <a href="https://insomnia.rest/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48rem"/></a>
     <a href="https://www.figma.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" height="48rem"/></a>
     <a href="https://firebase.google.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="48rem"/></a>
+    <a href="https://insomnia.rest/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="48rem"/></a>
 </div>
 
 ---
