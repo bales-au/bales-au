@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img align="center" src="https://readme-typing-svg.demolab.com/demo/?color=21F71A&lines=Welcome+to+my+GitHub!;My+name+is+Bailey+%F0%9F%91%8B" />
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h1>
 <br/>
 <h3 align="center"> Undergrad at Queensland University of Technology (QUT)</h3>
