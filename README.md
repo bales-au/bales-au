@@ -1,6 +1,8 @@
 <h1 align="center">
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br/>
 <h3 align="center"> Undergrad at Queensland University of Technology (QUT)</h3>
 <div align="center">
