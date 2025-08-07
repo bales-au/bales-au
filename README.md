@@ -28,11 +28,10 @@
     <a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" height="48rem" /></a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="CSS3" height="48rem" /></a>
     <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="48rem" /></a>
+    <a href="https://www.markdownguide.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" height="48rem" /></a>
     <a href="https://www.mysql.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="48rem" /></a>
     <a href="https://www.sqlite.org/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="48rem" /></a>
     <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="48rem" /></a>
-    <a href="https://www.json.org/json-en.html" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" alt="JSON" height="48rem" /></a>
-    <a href="https://en.wikipedia.org/wiki/XML" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" alt="XML" height="48rem" /></a>
 </div>
 
 ---
